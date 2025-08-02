@@ -31,8 +31,8 @@ An educational tool that helps students learn programming concepts by creating f
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd <repo-name>
+   git clone https://github.com/qais-mle7y/Research.git
+   cd Research
    ```
 
 2. **Start the Backend API**
