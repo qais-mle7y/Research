@@ -39,7 +39,7 @@ An educational tool that helps students learn programming concepts by creating f
    ```bash
    cd backend
    pip install -r requirements.txt
-   uvicorn app.main:app --reload
+   uvicorn app.main:app --reload OR python -m uvicorn app.main:app --reload
    ```
    The API will be available at `http://localhost:8000`
 
